@@ -10,5 +10,8 @@ Iris es un [género](https://es.wikipedia.org/wiki/Iris_(planta) ) de plantas [r
 | Setosas    |      5.006      |        3.428       |      1.462      |       0.246        |
 | Versicolor |      5.936      |        2.770       |      4.260      |       1.326        |
 | Virginica  |      6.588      |        2.974       |      5.552      |       2.026        |
+
+
+
  
 

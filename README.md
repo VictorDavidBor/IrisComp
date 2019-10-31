@@ -1,6 +1,6 @@
 # Flor Iris
 
-El objetivo de este análisis es la comparar la diferencia en la media que existe entre la población y la extracción de una muestra. Para ello se usarán los datos de Edgar Anderson de la flor Iris.
+El objetivo de este análisis es comparar la diferencia en la media que existe entre la población y la extracción de una muestra. Para ello se usarán los datos de Edgar Anderson de la flor Iris.
 
 
 Iris es un [género](https://es.wikipedia.org/wiki/Iris_(planta) ) de plantas [rizomatosas](https://es.wikipedia.org/wiki/Rizoma ) de la familia Iridaceae con vistosas flores, cuyo nombre deriva del latín arco iris, refiriéndose a la extensa variedad de colores florales que poseen sus muchas especies y cultivares de jardín. Además de nombre botánico del género, iris es comúnmente usado para referirse a todas las especies, así como a otros varios géneros estrechamente emparentados y a una subdivisión dentro del género.
